@@ -21,7 +21,12 @@ The CarDekho company maintains a database of the cars sold through their platfor
 - Print the model results and evaluate performance metrics.
 - ## Steps
 - **Read the cars dataset.**
-- 
+- ![](Read_dataset_1.png)
+  Check info
+  ![](info_check.png).
+
+  There it is No null values,
+  301 Rows 9 Columns  
 
 ## Visualization
 - Visualize diagnostic plots to assess model performance.
